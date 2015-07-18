@@ -1,0 +1,29 @@
+{
+  "name": "nodeex",
+  "version": "1.0.0",
+  "description": "Exercise for nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "learnyounode": "^2.7.1"
+  },
+  "devDependencies": {
+    "learnyounode": "^2.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foomango/nodeex.git"
+  },
+  "keywords": [
+    "nodejs",
+    "exercise"
+  ],
+  "author": "foomango@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foomango/nodeex/issues"
+  },
+  "homepage": "https://github.com/foomango/nodeex#readme"
+}
