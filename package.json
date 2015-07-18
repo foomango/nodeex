@@ -7,6 +7,7 @@
     "learnyounode": "^2.7.1"
   },
   "devDependencies": {
+    "bl": "^1.0.0",
     "learnyounode": "^2.7.1"
   },
   "scripts": {
